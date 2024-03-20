@@ -6,7 +6,7 @@ function ActionButton(
     type = "Default",
     status,
     size = "Default",
-    iconOnly = false,
+    iconOnly = false, //To apply Icon Only first turn the value of textandIcon to False
     icon,
     text,
     children,
